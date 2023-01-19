@@ -17,5 +17,11 @@ public class JavaApplication1 {
         System.out.print("Hello World!");
         // TODO code application logic here
     }
+    public void test(){
     
+    
+    
+    
+    
+    }  
 }
